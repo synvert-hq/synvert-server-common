@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.2 (2024-04-08)
+
+* Moving from `@xinminlabs` to `@synvert-hq`
+
 ## 1.1.1 (2023/02/04)
 
 * Revert "add formatCommandResult function"
