@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.3 (2024-04-09)
+
+* Rename package to `@synvert-hq/synvert-server-common`
+
 ## 1.1.2 (2024-04-08)
 
 * Moving from `@xinminlabs` to `@synvert-hq`
